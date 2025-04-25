@@ -1,21 +1,27 @@
-# Hi, I'm Adam!
+# 👋 Hi, I'm Adam!
 
-I'm a programmer passionate about creating web applications. I specialize in React and Next.js, as well as styling with Tailwind CSS. I'm continually developing my skills and looking forward to new challenges.
+I'm a passionate developer focused on building modern **web**, **desktop**, and **mobile** applications.  
+I work mainly with **TypeScript**, **React**, **Next.js**, **Electron**, **Flutter**, and **Dart**.
 
-## My Skills
+---
 
-- **JavaScript**: I have a foundational knowledge and am working on improving my skills in this language.
-- **TypeScript**: I use TypeScript to enhance the development experience and improve code quality.
-- **React**: I use React to build dynamic user interfaces.
-- **Next.js**: I'm experimenting with Next.js to create SSR and static applications.
-- **Tailwind CSS**: I create aesthetic and responsive projects with Tailwind CSS.
+## 🚀 Technologies I Use
 
-## Projects
+**Web & Desktop**  
+`TypeScript` · `React` · `Next.js` · `Electron` · `Tailwind CSS`
 
-I invite you to visit my website where you can see my work:
+**Mobile**  
+`Dart` · `Flutter`
 
-[My Portfolio](https://adamowy.vercel.app)
+---
 
-## Contact
+## 🔗 Projects
 
-If you'd like to get in touch, you can find a contact form on my website.
+Check out my portfolio to see what I’ve been working on:  
+[🌐 My Portfolio](https://adamowy.vercel.app)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via the contact form on my website.
