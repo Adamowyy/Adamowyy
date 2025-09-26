@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Adam!
 
 I'm a passionate developer focused on building modern **web** and **desktop** applications.
-At the moment, there are no large open projects on my GitHub, as I mainly work independently in private repositories.
+At the moment, there are no large public open projects on my GitHub, as I mainly work independently in private repositories.
+
+<sub>I am also working on projects within our private, two-person organisation, [Unidevs](https://github.com/unidevs-co).</sub>
 
 ---
 
